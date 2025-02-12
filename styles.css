@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f8f9fa;
+}
+#board {
+    width: 400px;
+    margin: auto;
+}
+#status {
+    margin-top: 10px;
+    font-size: 18px;
+}
+button {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
